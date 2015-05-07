@@ -44,4 +44,4 @@ To create the database and to install or update the views, simply run:
 
 ## Credits
 
-ARSnova is powered by Technische Hochschule Mittelhessen - University of Applied Sciences.
+ARSnova is powered by Technische Hochschule Mittelhessen - University of Applied Sciences. 
